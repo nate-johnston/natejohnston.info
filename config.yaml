@@ -24,11 +24,11 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: I only discuss politics in person. Managing a group working on OpenStack for Red Hat. Married to Heather, father of Evelyn.  Frustrated historian.
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: /nate_head.jpg
 
     article:
         math: false
