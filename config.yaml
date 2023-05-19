@@ -1,10 +1,11 @@
 # Config for natejohnston.info public site and blog
 # vim: nospell
-baseURL: https://natejohnston.info
+baseURL: http://10.100.0.75:4000/public/
 title: Nate Johnston
-theme: hugo-theme-stack
+
 languageCode: en-us
-themesdir: /sync/web/themes
+theme: theme
+themesdir: /data
 
 params:
     mainSections:
