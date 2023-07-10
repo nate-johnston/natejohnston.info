@@ -1,6 +1,6 @@
 mainSections:
   - posts
-description: Eureka is a elegant and powerful theme for Hugo.
+description: Nate blog posts
 
 repoEditURL:
 
@@ -9,7 +9,7 @@ dateFormat:
 titleSeparator:
 
 # Options: auto, light and dark. Default is auto.
-colorScheme:
+colorScheme: auto
 
 # Colors and fonts. Default style is data/styles/default.yaml/
 style:
@@ -17,7 +17,7 @@ style:
 # E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 siteType: Person
 icon: images/icon.png
-publisherName: WANG Chucheng
+publisherName: Nate Johnston
 publisherLogo:
 
 highlight:

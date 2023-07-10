@@ -1,30 +1,32 @@
 ---
+# vim: ai tabstop=2 shiftwidth=2 expandtab nospell
 title: Experience
 draft: false
 experiences:
-  - title: Example Role 1
+  - title: Associate Manager, Software Engineering
     organization:
-      name: Example Organization 1
-      url: https://example.org
-    dates: "2019 - Present"
-    location: Country
+      name: Red Hat
+      url: https://redhat.com
+    dates: "2020 - Present"
+    location: Sterling, VA, USA
     writeup: >
-      Donec scelerisque egestas augue at tempor. Fusce faucibus magna in.
+      Manage a geographically distributed team of open source software
+      developers working on cloud computing projects within the OpenStack
+      project.  Balance the needs of a major cloud software vendor with an
+      'upstream first' development policy and a focus on Open Source.  Lead my
+      team to add a major new component to the product offering.  Unlock the
+      ability to use Agile practices, and actively participate in process
+      evolution and reengineering.  
 
-      - Suspendisse lacinia mauris a laoreet vehicula.
-
-      - Aenean tincidunt enim vitae ante blandit tempor.
-
-      - Nam tincidunt diam quis lorem rutrum ullamcorper.
-
-  - title: Example Role 2
+  - title: Principal Software Engineer
     organization:
-      name: Example Organization 2
-      url: https://example.org
-    dates: "2017 - 2019"
-    location: Country
+      name: Red Hat
+      url: https://redhat.com
+    dates: "2018 - 2020"
+    location: Sterling, VA, USA
     writeup: >
-      **Aliquam** at **rutrum** ante. In sed quam faucibus.
+      Code contributor and driver for OpenStack Neutron.  Participated in
+      upstream and downstream software development and support.  
 
 weight: 3
 widget:

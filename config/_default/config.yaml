@@ -1,3 +1,5 @@
+# site config
+# vim: nospell
 baseURL: /public
 title: Eureka Demo
 themesdir: /sync/web/themes
@@ -10,10 +12,9 @@ theme: hugo-eureka
 
 paginate: 3
 copyright: >
-  &copy; 2021 <a href="https://www.wangchucheng.com/">WANG Chucheng</a> and <a
-  href="https://www.ruiqima.com/">MA Ruiqi</a>
+  &copy; 2023 Nate Johnston
 enableEmoji: true
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 75
 
 defaultContentLanguage: en
