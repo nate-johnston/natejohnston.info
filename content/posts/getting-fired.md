@@ -6,6 +6,8 @@ categories= ["personal"]
 
 Recently I saw on Twitter a prompt to share your worst/most hilarious getting fired stories.  I have a pretty good one from more than twenty years ago, so I figured I would write it down. 
 
+<!--more-->
+
 Back in 2000, I started as a contractor with a company called Capital Area Internet Solutions - CAIS.  CAIS started as a small dialup access company, but it's CEO Ulysses G. Auger II had repositioned itself to offering high-speed Internet connections in hotel rooms and apartment complexes.  It had a small web hosting center in an old 1960s office building, a legacy of the old part of the business.  It was a standard kind of building with an elevator bank in the center and offices in a donut around the perimeter.  Stepping off the elevator and crossing the elevator lobby you would go into a CAIS reception area, then work your way around the donut through a spaghetti string of offices, computer rooms, and a tiny NOC.
 
 There were two computer rooms, called the old room and the new room.  CAIS customers could bring in their servers and rack them in the CAIS datacenter, and we would rack them, connect them, and provide basic hosting support.  

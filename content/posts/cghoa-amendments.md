@@ -5,9 +5,11 @@ categories:
 - HOA
 ---
 
-## Introduction
+This documents the proposed amendments to the Calvert's Glen HOA Architectural Control Committee (ACC) guidelines proposed by me in 2021/2022.
 
-This documents the proposed amendments to the Calvert's Glen HOA Architectural Control Committee (ACC) guidelines proposed by me in 2021/2022.  I am writing them here in order to facilitate distribution and comment.
+<!--more-->
+
+I am writing them here in order to facilitate distribution and comment.
 
 *Note*: This text is updated based on feedback from the CGHOA board meeting on August 17th, 2022.
 

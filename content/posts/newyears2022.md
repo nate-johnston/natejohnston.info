@@ -6,7 +6,11 @@ categories= ["personal"]
 +++
 
 
-Here we are, come to the end of 2021, and I thought it would be a good time to make some New Year’s resolutions for 2022.  I am not normally one for making resolutions like this, but I am trying to establish a New Normal - as is the whole world - and one of the things I most want to do is be more intentional in my life.  Some of these are more realistic than others, but I believe in all of them.  I present them in order from most realistic to least realistic in my completely subjective opinion.
+Here we are, come to the end of 2021, and I thought it would be a good time to make some New Year’s resolutions for 2022.
+
+<!--more-->
+
+I am not normally one for making resolutions like this, but I am trying to establish a New Normal - as is the whole world - and one of the things I most want to do is be more intentional in my life.  Some of these are more realistic than others, but I believe in all of them.  I present them in order from most realistic to least realistic in my completely subjective opinion.
 
 ### 1. Write a blog entry every two weeks
 
