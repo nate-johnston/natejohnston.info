@@ -5,12 +5,14 @@ description = "How I Do Email"
 categories= ["How I Do Things"]
 +++
 
-### Why I Switched from GMail
-
 This post is a true account of my journey from a standard, vanilla GMail setup
 towards a wholly different method of organizing my email that I quite enjoy, and
 that so far serves me well.  I shall start by answering the first question
 anyone would ask: since GMail is ubiquitous, why did I leave it?
+
+<!--more-->
+
+### Why I Switched from GMail
 
 First off, I wanted to dead-head my email archive.  I had hundreds of thousands
 of emails, mostly unread.  I have been using filters and labels for a long time,

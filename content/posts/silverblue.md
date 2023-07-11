@@ -5,10 +5,12 @@ draft: false
 categories: ["How I Do Things"]
 ---
 
-### Introduction
-
 This is likely to be the first in a series of notes on my experience with Fedora
-Silverblue.  There are a number of things that I have had to piece together from
+Silverblue.
+
+<!--more-->
+
+There are a number of things that I have had to piece together from
 multiple sources, so I thought it would be helpful to write them down in one
 place.
 

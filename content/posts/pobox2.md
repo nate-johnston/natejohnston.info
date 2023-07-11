@@ -6,7 +6,11 @@ categories: ["How I Do Things"]
 ---
 
 [I wrote about how I moved away from GMail](https://natejohnston.info/2021/pobox/) last year, so I wanted to revisit
-the efficacy of the setup.  So this data is from mid-February 2021 to September 1, 2022.  
+the efficacy of the setup.
+
+<!--more-->
+
+So this data is from mid-February 2021 to September 1, 2022.  
 
 To revisit, I file email into folders.  Levels 1, 2, and 3 are
 kept indefinitely, level 4 is kept for a year, and level 5 (the default) is kept

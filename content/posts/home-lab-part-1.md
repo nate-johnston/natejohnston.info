@@ -5,6 +5,10 @@ draft: false
 categories: ["openstack"]
 ---
 
+This is how I built my home lab server.
+
+<!--more-->
+
 Working as a full time upstream developer in OpenStack means that sometimes I
 need to run a full cloud environment in order to determine if a new feature
 works, or debug some kind of issue that someone has reported.  This requires

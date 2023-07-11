@@ -5,8 +5,6 @@ categories:
 - HOA
 ---
 
-## Introduction
-
 This is a revision to the originally proposed amendments to the Calvert's Glen HOA Architectural Control Committee guidelines.
 
 <!--more-->
