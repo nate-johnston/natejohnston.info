@@ -7,7 +7,11 @@ categories:
 
 ## Introduction
 
-This is a revision to the originally proposed amendments to the Calvert's Glen HOA Architectural Control Committee guidelines.  You can read the previous iteration [on my original post, here](https://natejohnston.info/2022/cghoa-amendments/).  After incorporating much feedback, this 
+This is a revision to the originally proposed amendments to the Calvert's Glen HOA Architectural Control Committee guidelines.
+
+<!--more-->
+
+You can read the previous iteration [on my original post, here](https://natejohnston.info/2022/cghoa-amendments/).  After incorporating much feedback, this 
 
 ## #1: Solar Panels
 Proposed Sept 7, 2021.
