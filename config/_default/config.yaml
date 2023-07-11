@@ -1,7 +1,7 @@
 # site config
 # vim: nospell
 baseURL: /public
-title: Eureka Demo
+title: Nate
 themesdir: /sync/web/themes
 
 # Uncomment when not installing with Hugo Modules
