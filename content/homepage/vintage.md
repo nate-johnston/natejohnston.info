@@ -27,3 +27,4 @@ widget:
     # Options: fixed, local, scroll.
     attachment: 
 slogan: In all things moderation.
+---
