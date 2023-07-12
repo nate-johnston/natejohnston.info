@@ -1,6 +1,6 @@
 # site config
 # vim: nospell
-baseURL: /public
+baseURL: https://natejohnston.info
 title: Nate
 themesdir: /sync/web/themes
 
