@@ -9,7 +9,7 @@ dateFormat:
 titleSeparator:
 
 # Options: auto, light and dark. Default is auto.
-colorScheme: auto
+colorScheme: light
 
 # Colors and fonts. Default style is data/styles/default.yaml/
 style:
