@@ -5,8 +5,8 @@ draft: false
 categories: ["How I Do Things"]
 ---
 
-[I wrote about how I moved away from GMail](https://natejohnston.info/2021/pobox/) last year, so I wanted to revisit
-the efficacy of the setup.
+[I wrote about how I moved away from GMail](https://natejohnston.info/posts/pobox/) last year, so I wanted to revisit
+the efficacy of the setup.g
 
 <!--more-->
 
