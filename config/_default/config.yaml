@@ -2,10 +2,10 @@
 # vim: nospell
 baseURL: https://natejohnston.info
 title: Nate
-themesdir: /sync/web/themes
+themesdir: /data
 
 # Uncomment when not installing with Hugo Modules
-theme: hugo-eureka
+theme: theme
 # Comment when not installing with Hugo Modules
 #theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
