@@ -3,6 +3,7 @@
 baseURL: https://natejohnston.info
 title: Nate
 themesdir: /data
+assetDir: static
 
 # Uncomment when not installing with Hugo Modules
 theme: theme
