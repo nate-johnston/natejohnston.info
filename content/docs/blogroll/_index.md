@@ -23,4 +23,6 @@ This is a collection of blogs and other resources that I pay attention to.
 - [Quillette](https://quillette.com/)
 - [Real Clear Politics](https://www.realclearpolitics.com/)
 - [Patterico's Pontifications](https://patterico.com/)
-- 
+
+### Technology
+- [tty1.blog](https://tty1.blog/) 
