@@ -1,6 +1,6 @@
 +++
 title= "Politics and Social Media"
-date= 2022-06-20T22:54:46-04:00
+date= 2024-07-20T22:54:46-04:00
 categories= ["personal"]
 draft= false
 +++
