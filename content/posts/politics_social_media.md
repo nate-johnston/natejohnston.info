@@ -1,8 +1,8 @@
 +++
 title= "Politics and Social Media"
-date= 2024-07-20T22:54:46-04:00
+date= 2024-07-22T22:54:46-04:00
 categories= ["personal"]
-draft= false
+draft= true
 +++
 
 As I write this, in the scorching summer of 2024, the political world is in upheaval.  Joe Biden has just decided to drop out of the race for Presidency of the United States, soon after Donald Trump survived a nearly successful assassination attempt.  Conspiracy theories run rampant.  Everyone has an opinion.
