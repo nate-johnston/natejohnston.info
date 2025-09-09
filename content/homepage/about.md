@@ -27,7 +27,7 @@ widget:
 
   sidebar:
     # Options: left and right. Leave blank to hide.
-    position:
+    position: right
     # Options: sm, md, lg and xl. Default is md.
     scale:
   
@@ -52,6 +52,6 @@ Sterling, a town in eastern Loudoun Country, Virginia.
 I have been in the tech industry since I graduated from college in 1997.  I have
 worn many hats: system administrator, software developer, software architect,
 SRE, and now manager.  Mostly I have worked in the telecommunications sector,
-for such companies as MCI, AOL, and Comcast.  
+for such companies as MCI, Cable & Wireless, AOL, Comcast, and Red Hat.  
 
 I enjoy playing games - both board games and role playing games.
