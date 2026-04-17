@@ -4,11 +4,7 @@ baseURL: https://natejohnston.info
 title: Nate
 assetDir: static
 
-# Uncomment when not installing with Hugo Modules
 theme: hugo-eureka
-# Comment when not installing with Hugo Modules
-#theme: wangchucheng.com/hugo-eureka
-# If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
 
 paginate: 3
 copyright: >
