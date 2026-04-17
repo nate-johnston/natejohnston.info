@@ -51,7 +51,8 @@ jobs:
           rm "dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
       - name: Install PostCSS
-        run: npm install postcss postcss-cli autoprefixer --save-dev
+        run: npm install postcss postcss-cli autoprefixer tailwindcss tailwindcss-rtl "@tailwindcss/typography" --save-dev
+
       - name: Install Hugo
         run: |
           curl -sLJO "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.tar.gz"
