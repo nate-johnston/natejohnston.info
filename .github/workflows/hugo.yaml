@@ -51,7 +51,7 @@ jobs:
           rm "dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
           echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
       - name: Install PostCSS
-        run: npm install postcss postcss-cli autoprefixer tailwindcss tailwindcss-rtl "@tailwindcss/typography" --save-dev
+        run: npm install postcss postcss-cli autoprefixer tailwindcss tailwindcss-rtl "@tailwindcss/typography" @tailwindcss/postcss --save-dev
 
       - name: Install Hugo
         run: |
