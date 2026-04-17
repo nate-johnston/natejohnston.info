@@ -46,3 +46,7 @@ taxonomies:
 
 build:
   useResourceCacheWhen: never
+
+caches:
+  images:
+    dir: :cacheDir/images
