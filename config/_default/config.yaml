@@ -5,7 +5,7 @@ title: Nate
 assetDir: static
 
 # Uncomment when not installing with Hugo Modules
-theme: theme
+theme: hugo-eureka
 # Comment when not installing with Hugo Modules
 #theme: wangchucheng.com/hugo-eureka
 # If you cannot access the Github mirror, you can also use the Gitee mirror: gitee.com/wangchucheng/hugo-eureka
